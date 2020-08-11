@@ -28,7 +28,7 @@
     let month = "agosto";
     let year = 2020;
     
-let money = 7000.00;
+    let money = 7000.00;
     
     
     
